@@ -45,6 +45,7 @@ Design and implementation of a robust server infrastructure based on **Ubuntu Se
 * **Technical Documentation:** Authored a comprehensive 60+ page technical manual detailing every configuration step and the network topology.
 
 > **Key Skills:** Linux CLI, Network Services, Security Hardening, Technical Writing.
+> * **Project Documentation:** [📄 View Local PDF Report](./docs/proyectofinal_diplomado.pdf)
 
 ---
 
