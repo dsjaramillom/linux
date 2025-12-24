@@ -1,7 +1,7 @@
 ## 💼 Professional Experience
 
 ### **IT Support Technician | YEAPDATA**
-*202X – Present* * **Infrastructure Maintenance:** Managed hardware and software troubleshooting for enterprise workstations, ensuring 99.9% uptime for end-users.
+*2023 – 2025* * **Infrastructure Maintenance:** Managed hardware and software troubleshooting for enterprise workstations, ensuring 99.9% uptime for end-users.
 * **Technical Support:** Resolved complex L1/L2 technical incidents via ticketing systems, focusing on network connectivity and OS stability.
 * **System Optimization:** Implemented preventive maintenance protocols to extend equipment lifecycle and improve performance.
 
