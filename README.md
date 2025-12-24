@@ -9,10 +9,15 @@
 
 ## 🎓 Specialization & Projects
 
-### **Linux System Administration (Diplomado de Profundización - UNAD)**
-*Focus: Open Source & Infrastructure*
+### 🌐 Comprehensive Infrastructure & Open Source Administration
+**Final Graduation Project - UNAD** | [🔗 Official University Repository](https://repository.unad.edu.co/handle/10596/77193)
 
-* **Kernel & Shell:** Deep dive into Linux fundamentals, process management, and Bash scripting for task automation.
-* **Server Administration:** Deployment and configuration of core services: **Apache/Nginx (Web), BIND9 (DNS), and Postfix (Mail)**.
-* **Security & Networking:** Hardening systems using IPTables/UFW and managing user permissions (Sudoers/Groups) in Debian-based environments.
-* **Virtualization:** Hands-on experience with KVM and VMware for server consolidation and testing environments.
+Design and implementation of a robust server infrastructure using **Ubuntu Server**, focused on security and service availability.
+
+* **Network Infrastructure:** Configuration of core services including **DNS (Bind9)**, **DHCP**, and **Web Hosting (Apache)**.
+* **Database & Storage:** Deployment of **MariaDB** for data management and **FTP** services for secure file transfer.
+* **Security Hardening:** Implementation of firewall rules and access controls to protect network integrity.
+* **Virtualization:** Provisioning of services in virtualized environments, ensuring efficient resource allocation.
+* **Technical Documentation:** Authored a complete 60+ page technical manual detailing every configuration step and network topology.
+
+> **Key Skills:** Linux CLI, Network Services, Security Hardening, Technical Writing.
